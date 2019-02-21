@@ -1,0 +1,14 @@
+WCAG is important, are you tied to usable.net?
+I noticed the headquarters for software was based in India, is that where the majority of
+software development is done? 
+Is the majority of work Deque does hardware or software
+related?
+Hourly or salary?
+I noticed the beginner's guide to accessing the web was directed mainly to the audience
+of developers; is this more along the lines of a consulting company?
+What training resources are there?
+I noticed a small typographical error in your services pageunder Deque Accessibility Services -- (WCAG) Web Accessibility Content Guidelines...
+Also, the website reaction for the navbar moving from position fixed to inline made it disappear 
+when the site was navigated further down than where the navbar appeared. Maybe changing it to a dropdown
+as well as leaving it position fixed would be more streamlined.
+
