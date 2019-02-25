@@ -12,3 +12,20 @@ Also, the website reaction for the navbar moving from position fixed to inline m
 when the site was navigated further down than where the navbar appeared. Maybe changing it to a dropdown
 as well as leaving it position fixed would be more streamlined.
 
+
+develops things for consumers, including the govt
+lots of regulations recently passed to allow for a level playing field
+skills are important
+
+Deque core values 20 years old, about 30 in india and the rest in the states
+
+js background, 3+ java exp,
+sql db background
+travel is minimal,
+angular-reactjs is good, mostly communicating with teams and less with consumer
+problem-solver, not passive aggressive
+socially esponsible work
+tests products with workers who are impaired
+2 main offices in va, and michigan
+strong csci from UM
+manager is based out of atl area.

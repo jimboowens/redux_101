@@ -53,6 +53,6 @@ function mapDispatchToProps(dispatch){
         },
     dispatch)
 }
-// console.log (connect)
+console.log (connect)
 
 export default connect(mapStateToProps,mapDispatchToProps)(Student)

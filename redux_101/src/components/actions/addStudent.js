@@ -3,8 +3,7 @@
 // that object myst have a prop of 'type'
 
 export default function addStudent(studentName){
-    console.log("add student action was called...")
-    console.log(studentName)
+    // console.log("add student action was called...studentName is:",studentName)
     return {
         type: 'ADD_STUDENT',
         payload: studentName
